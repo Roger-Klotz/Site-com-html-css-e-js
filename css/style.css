@@ -276,11 +276,21 @@ section.sessao1 .container{
     }
     
     .device-sessao1{
-        display: none;
+        float: left;
+        width: 50%;
+        position: relative;
+        top: -30px;
+        height: 100%;
+        background-image: url(../imagens/device.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
     }
     
     .sessao2{
-        padding-top: 40px;
+        padding-left: 2%;
+        padding-right: 2%;
+        background: white;
+        text-align: center;
     }
     
     
